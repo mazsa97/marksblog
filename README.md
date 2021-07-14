@@ -1,4 +1,4 @@
-# Mark's Blog
+## Mark's Blog
     -   A personal blog website, where you can create, modify, et cetera posts.
     -   Feel free to explore all the functions the website has to offer to you!
 # Installation
