@@ -20,4 +20,4 @@
     Modify-post.php     --  Modify the selected post.
     Modify-post-alt.php --  Modify the selected post without its image.
 
-# Enjoy!
+# Enjoy!!!
