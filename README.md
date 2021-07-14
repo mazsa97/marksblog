@@ -6,10 +6,10 @@
     -   import the sql/marksblog.sql file into phpMyAdmin trough http://localhost/phpmyadmin/ in your browser.
     -   Change the admin login credentials (OPTIONAL) or use the default username, password ("admin","test12345").
 # Website Structure
-    Index.php   --  This is where all the active posts are listed to anyone.
-    Post.php    --  View the post with all of its data, text.
-    About.php   --  Basic about page.
-    Contact.php --  Basic contact page.
+    Index.php           --  This is where all the active posts are listed to anyone.
+    Post.php            --  View the post with all of its data, text.
+    About.php           --  Basic about page.
+    Contact.php         --  Basic contact page.
 
     Admin pages can be accesed trough the login form which can be found in the upper right menu.
 
@@ -21,3 +21,4 @@
     Modify-post-alt.php --  Modify the selected post without its image.
 
 # Enjoy!!!
+If you have any questions, feel free to contact me! (szakacsmark.hu)
