@@ -21,4 +21,4 @@
     Modify-post-alt.php --  Modify the selected post without its image.
 
 # Enjoy!!!
-If you have any questions, feel free to contact me! (szakacsmark.hu)
+If you have any questions, feel free to contact me! (szakacsmark.hu / szakacsmark@gmail.com)
